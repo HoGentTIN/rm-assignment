@@ -17,3 +17,5 @@
 - [ ] Use the template in the `prep` folder for the written preparation of your research proposals, and compile it to PDF (e.g. using the provided Makefile, or with your own LaTeX setup). Rename the file as `rm-YYYY-groep-NN.tex` (where `YYYY` is the current academic year - e.g. 2526- and `NN` is your group number). Replace "groep" with "group" you are enrolled in the English variant of this course.
 - [ ] Use the template in the `pitch` folder to create a slide deck for your pitch presentation.
 - [ ] Remove these instructions, add a short introduction to the work your team will be presenting, and a table of contents linking to your notes.
+
+⚠️⚠️⚠️⚠️ **PAY ATTENTION!** Your group's repository will be deleted before the start of the course next academic year. **Take a backup if you want to keep your work!**
